@@ -11,6 +11,7 @@ python -m pip install matplot seaborn numpy pandas
 
 pip install psycopg[binary]
 
+pip install openpyxl
 
 # Permite temporalmente ejecutar el script de activación: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 
